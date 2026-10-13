@@ -2,7 +2,7 @@
 /*
 Plugin Name: Related Posts for WordPress - Polylang Compatibility
 Plugin URI: https://docs.relatedpostsforwp.com/multilingual/polylang-compatibility/
-Version: 2.0.0
+Version: 3.0.0
 Author: Aucor Oy, Never5
 Author URI: https://www.aucor.fi
 Description: Keeps related posts in the language of the post on Polylang sites. Works with Related Posts for WordPress 3.0 or newer (free or Premium), and with Premium 2.x.

@@ -19,7 +19,7 @@ Requirements for the plugin:
 
 With Premium 3.0.1 or newer, the posts that fill up the related posts when too few are found (force fill) are in the language of the post too.
 
-This plugin was made by Aucor and is based on the WPML compatibility plugin of Related Posts for WordPress. Version 2.0 adds support for Related Posts for WordPress 3.0.
+This plugin was made by Aucor and is based on the WPML compatibility plugin of Related Posts for WordPress. Version 3.0 adds support for Related Posts for WordPress 3.0.
 
 
 ## Installation
@@ -53,7 +53,7 @@ The plugin keeps new links in the language of the post. Posts that were linked b
 
 ## Changelog
 
-### 2.0.0
+### 3.0.0
 * Works with Related Posts for WordPress 3.0 and newer, in the free plugin as well as in Premium. Premium 2.x keeps working as before.
 * Posts of post types Polylang does not translate stay related posts of translated posts.
 * A post that is created and published at once, such as through the REST API, an import or WP-CLI, is read and linked once Polylang has stored its language.
